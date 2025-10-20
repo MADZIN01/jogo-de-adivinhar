@@ -16,14 +16,14 @@ Um jogo simples de terminal onde você deve adivinhar um número de 1 a 10 em 3 
 Cole este comando no terminal:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/MADZIN1234/jogo-de-adivinhar/main/instalar.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/MADZIN01/jogo-de-adivinhar/main/instalar.sh | sudo bash
 ```
 
 ### Método 2: Instalação Manual
 
 ```bash
 # Baixa o instalador
-wget https://raw.githubusercontent.com/MADZIN1234/jogo-de-adivinhar/main/instalar.sh
+wget https://raw.githubusercontent.com/MADZIN01/jogo-de-adivinhar/main/instalar.sh
 
 # Torna executável
 chmod +x instalar.sh
@@ -35,7 +35,7 @@ sudo ./instalar.sh
 ### Método 3: Sem Instalar (Rodar Direto)
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/MADZIN1234/jogo-de-adivinhar/main/jogo.sh)
+bash <(curl -s https://raw.githubusercontent.com/MADZIN01/jogo-de-adivinhar/main/jogo.sh)
 ```
 
 ## 🎯 Como Usar
