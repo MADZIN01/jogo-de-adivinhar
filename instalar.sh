@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# IMPORTANTE: Mude SEU-USUARIO para seu nome de usuário do GitHub!
-REPO="SEU-USUARIO/jogo-de-adivinhar"
+
+REPO="MADZIN1234/jogo-de-adivinhar"
 APP_NAME="jogo-adivinhar"
 
 # Cores
