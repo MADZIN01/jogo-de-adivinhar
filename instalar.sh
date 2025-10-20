@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-REPO="MADZIN1234/jogo-de-adivinhar"
+REPO="MADZIN01/jogo-de-adivinhar"
 APP_NAME="jogo-adivinhar"
 
 # Cores
